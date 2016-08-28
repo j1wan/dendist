@@ -1,0 +1,10 @@
+Package: dendist
+Type: Package
+Title: Distance Between Probability Density Functions
+Version: 0.1.0
+Author: Jiwan Jeong
+Maintainer: Jiwan Jeong <jiwanjeong@gmail.com>
+Description: Distance Between Probability Density Functions
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1
