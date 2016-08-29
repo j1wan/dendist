@@ -1,11 +1,11 @@
-#' Jensen-Shannon Distance/Divergence
+#' Jensen-Shannon Divergence/Distance
 #'
-#' Calcuate Jensen-Shannon distance/divergence
-#' @aliases JSDist
+#' Calcuate Jensen-Shannon divergence/distance
+#' @aliases JSD JSDist
 #' @param P y-values of a distribution
 #' @param Q y-values of another distribution
 #' @param dx delta x
-#' @seealso \code{\link{KLDiv}}
+#' @seealso \code{\link{KLDiv}} \code{\link{BhattacharyyaDist}}
 #' @export
 JSDiv <- function(P, Q, dx) {
   M <- (P + Q) / 2

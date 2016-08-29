@@ -1,6 +1,7 @@
 #' Kullback-Leibler divergence
 #'
 #' calculate K-L divergence w/ trapezodial approximation
+#' @aliases KLD
 #' @param P y-values of a distribution
 #' @param Q y-values of another distribution
 #' @param dx delta x
