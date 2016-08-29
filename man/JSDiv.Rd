@@ -16,7 +16,7 @@ JSDiv(P, Q, dx)
 \item{dx}{delta x}
 }
 \description{
-Calcuate Jensen-Shannon distance/divergence
+Calcuate Jensen-Shannon divergence/distance
 }
 \seealso{
 \code{\link{KLDiv}} \code{\link{BhattacharyyaDist}}
