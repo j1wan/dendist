@@ -6,6 +6,7 @@ An R package to calculate *dist*ance between probability *den*sity functions. No
 - Jensen-Shannon distance (`JSDist`)
 - Bhattacharyya distance (`BhattacharyyaDist`)
 - Hellinger distance (`HellingerDist`)
+
 ## Installation
 
 ```R
