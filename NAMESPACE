@@ -2,6 +2,7 @@
 
 export(BhattacharyyaCoef)
 export(BhattacharyyaDist)
+export(Entropy)
 export(HellingerDist)
 export(JSDist)
 export(JSDiv)
